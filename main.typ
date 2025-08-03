@@ -45,16 +45,12 @@ Thang is a young and passionate esports broadcaster, with experience in many fie
 - Have a good sense of style and design, which can help in envisioning the layout of the broadcast.
 - English is my second language, and I can communicate fluently.
 
-=== Weaknesses
-- Currently suffer from mental illnesses, meaning I may struggle with stress and pressure.
-- Not well suited to management roles.
-- Not very focused on one task, easily distracted.
 
 == Skills
-- *Programming Languages:* JavaScript, Python, HTML/CSS
-- *Software:* vMix, OBS Studio
-- *Certifications:* IELTS 8.0 (Expired 2024)
-- *Languages:* Vietnamese (Native), English (Fluent)
+- *Programming Languages:* JavaScript, Python, HTML/CSS.
+- *Software:* vMix, OBS Studio, VDO.Ninja, Voicemeeter.
+- *Certifications:* IELTS 8.0 (Expired Jan 2024).
+- *Languages:* Vietnamese (Native), English (Fluent).
 - *Interests:* Esports, Programming, Photography.
 
 == Education
@@ -81,7 +77,7 @@ Thang is a young and passionate esports broadcaster, with experience in many fie
   company: "Garena Vietnam",
   dates: dates-helper(start-date: "Dec 2024", end-date: "Now"),
   location: "Binh Chanh, Ho Chi Minh City, Vietnam",
-  title: "Broadcast Collaborator"
+  title: "Broadcast Collaborator (Arena of Valor Observer)"
 )
 - Participated in multiple international tournaments and smaller events as Observer.
 - Learned and practiced the skills from experiences from other colleagues.
@@ -96,77 +92,21 @@ Thang is a young and passionate esports broadcaster, with experience in many fie
 - Established specific processes and coordinated with other departments to ensure smooth operations.
 - Planned the layouts, laid out the requirements, and worked closely with the designers to create the graphics.
 - Managed the team of broadcasters to ensure the quality of the broadcast.
-- Demonstrated strong knowledge of the vMix software to produced many success livestream.
+- Demonstrated strong knowledge of the vMix software to produce many successful livestreams.
 
-== Projects
-#project(
-  dates: dates-helper(start-date: "Nov 2024"),
-  name: "HCMUS Championship XII - Valorant, League of Legends",
-  role: "Broadcaster, Observer",
-)
-- Devised a new workflow with the entire club to revise the broadcast process.
-- Communicated with the Design and Operation department to create the graphics.
-- Utilized OBS Studio to broadcast the event, and resolved any technical issues that arose.
-- Researched new technologies and utilized third-party and internal game APIs to enhance the broadcast experience.
-- Managed the team of broadcasters to ensure the quality of the broadcast.
-- Directed the in-game camera to capture the best moments of the game.
-- Setup audio and video equipment to ensure the best video quality to the casters.
+== Events Participated
 
 #project(
-  dates: dates-helper(start-date: "18 Aug 2025", end-date: "21 Aug 2025"),
-  name: "Teamfight Tactics - Runeterra Reforged: SEA Regional Qualifiers #1",
-  role: "In-Game Observer",
-)
-- Directed the in-game camera for the tournament to capture the best moments of the game.
-- Coordinated with other Observers to ensure all moments, highlights, and battles are fully captured without missing any important details.
-- Worked closely with the Post-Match Breakdown team to deliver the correct information to the audience.
-- Worked with Replay team to prepare highlights after each games.
-
-#project(
-  dates: dates-helper(start-date: "Dec 2024", end-date: "Now"),
-  name: "Arena of Valor International Championship - 2024 and 2025",
-  role: "In-Game Observer"
-)
-- Directed the in-game camera for the tournament to capture the best moments of the game.
-- Coordinated with other Observers to ensure all moments, highlights, and battles are fully captured without missing any important details.
-
-#project(
-  dates: dates-helper(start-date: "Sep 2024", end-date: "Nov 2024"),
-  name: "FPT Shop University Tour 2024",
-  role: "vMix Operator, Broadcast Operator",
-)
-- Planned the operations, guidelines, and timeline for the broadcast.
-- Assigned the role of each machine and in-game camera to the team members.
-- Collaborated with the Design department to create the graphics.
-- Managed the team of broadcasters to ensure the quality of the broadcast.
-- Operated the vMix software to broadcast the event, and resolved any technical issues that arose.
-- Configured the audio and video equipment to ensure the best audio and video quality for the commentators.
-- Ensured smooth streaming and high-quality audio and video to the audience.
-
-#project(
-  dates: "Apr 2025",
-  name: "League of Legends: Wild Rift - Wild Rounds Vietnam, Season 2",
-  role: "vMix Operator, Broadcast Operator",
+  dates:  "6 July 2025",
+  name: "League of Legends: Wild Rift - Vietnam Wild Rift Series Season I",
+  role: "vMix Operator, Technical Director"
 )
 - Planned the operations, guidelines, and timeline for the broadcast.
 - Assigned the role of each machine and in-game observers to the team members.
 - Collaborated with the Design department to create guidelines for the graphics.
 - Managed the team of broadcasters to ensure the quality of the broadcast.
 - Operated the vMix software to broadcast the event, and resolved any technical issues that arose.
-- Configured the audio and video equipment to ensure the best audio and video quality for the commentators.
-- Ensured smooth streaming and high-quality audio and video to the audience.
-
-#project(
-  dates: "Apr 2025",
-  name: "League of Legends - Road to VCS Summer 2025",
-  role: "vMix Operator, Broadcast Operator",
-)
-- Planned the operations, guidelines, and timeline for the broadcast.
-- Assigned the role of each machine and in-game observers to the team members.
-- Collaborated with the Design department to create guidelines for the graphics.
-- Managed the team of broadcasters to ensure the quality of the broadcast.
-- Operated the vMix software to broadcast the event, and resolved any technical issues that arose.
-- Configured the audio and video equipment to ensure the best audio and video quality for the commentators.
+- Provided training and guidance to the new team member for the new role of Graphics Operator.
 - Ensured smooth streaming and high-quality audio and video to the audience.
 
 #project(
@@ -179,14 +119,64 @@ Thang is a young and passionate esports broadcaster, with experience in many fie
 - Coordinated with League Operations to supervise teams, by notifying any information provided by the League Ops to teams, and vice versa.
 
 #project(
-  dates:  "6 July, 2025",
-  name: "League of Legends: Wild Rift - Vietnam Wild Rift Series Season I",
-  role: "vMix Operator, Technical Director"
+  dates: "Apr 2025",
+  name: "League of Legends - Road to VCS Summer 2025",
+  role: "vMix Operator, Master",
 )
 - Planned the operations, guidelines, and timeline for the broadcast.
 - Assigned the role of each machine and in-game observers to the team members.
 - Collaborated with the Design department to create guidelines for the graphics.
+- Researched, trained, and supported Observers how to operate software such as League Director (in-game cinematic camera) and League-Broadcast-Tookit (custom In-Game HUD, Post-Match).
 - Managed the team of broadcasters to ensure the quality of the broadcast.
 - Operated the vMix software to broadcast the event, and resolved any technical issues that arose.
-- Provided training and guidance to the new team member for the new role of Graphics Operator.
+- Configured the audio and video equipment to ensure the best audio and video quality for the commentators.
 - Ensured smooth streaming and high-quality audio and video to the audience.
+
+#project(
+  dates: dates-helper(start-date: "Sep 2024", end-date: "Nov 2024"),
+  name: "FPT Shop University Tour 2024",
+  role: "vMix Operator, Master",
+)
+- Planned the operations, guidelines, and timeline for the broadcast.
+- Assigned the role of each machine and in-game camera to the team members.
+- Collaborated with the Design department to create the graphics.
+- Managed the team of broadcasters to ensure the quality of the broadcast.
+- Operated the vMix software to broadcast the event, and resolved any technical issues that arose.
+- Configured the audio and video equipment to ensure the best audio and video quality for the commentators.
+- Ensured smooth streaming and high-quality audio and video to the audience.
+
+#project(
+  dates: dates-helper(start-date: "Dec 2024", end-date: "Now"),
+  name: "Arena of Valor International Championship - 2024 and 2025",
+  role: "In-Game Observer"
+)
+- Directed the in-game camera for the tournament to capture the best moments of the game.
+- Coordinated with other Observers to ensure all moments, highlights, and battles are fully captured without missing any important details.
+
+
+#project(
+  dates: dates-helper(start-date: "Nov 2024"),
+  name: "Hội Thao Esports 2024 - Valorant, League of Legends",
+  role: "Broadcaster, Observer",
+)
+- Revised new workflows with the entire club to revise the broadcast process.
+- Communicated with the Design and Operation department to create the graphics.
+- Utilized OBS Studio to broadcast the event, and resolved any technical issues that arose.
+- Researched new technologies and utilized third-party and internal game APIs to enhance the broadcast experience.
+- Managed the team of broadcasters to ensure the quality of the broadcast.
+- Directed the in-game camera to capture the best moments of the game.
+- Setup audio and video equipment to ensure the best video quality to the casters.
+
+
+
+== Other Projects
+
+#project(
+  dates: "2024",
+  name: "Valorant Broadcast Overlay - Hội Thao Esports 2024",
+  role: "Project Manager, Developer"
+)
+- Language: Python (Flask), JavaScript (SvelteKit).
+- Developed a custom broadcast overlay application for Valorant for the Map Veto and Agent Select screen.
+- Maintained the application for the project until the end of the tournament.
+- Successfully deployed and operated the application for the show.
