@@ -51,7 +51,7 @@ Thang is a young and passionate esports broadcaster, with experience in many fie
 - *Software:* vMix, OBS Studio, VDO.Ninja, Voicemeeter.
 - *Certifications:* IELTS 8.0 (Expired Jan 2024).
 - *Languages:* Vietnamese (Native), English (Fluent).
-- *Interests:* Esports, Programming, Photography.
+- *Interests:* Esports, IT (Networking, Sysadmin), Broadcast, Programming, Photography.
 
 == Education
 #edu(
