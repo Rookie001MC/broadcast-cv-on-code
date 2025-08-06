@@ -180,3 +180,11 @@ Thang is a young and passionate esports broadcaster, with experience in many fie
 - Developed a custom broadcast overlay application for Valorant for the Map Veto and Agent Select screen.
 - Maintained the application for the project until the end of the tournament.
 - Successfully deployed and operated the application for the show.
+
+#project(
+  dates: dates-helper(start-date: "Sep 2022", end-date: "Now"),
+  name: "Homelab and Self-Hosting",
+  role: "Owner, Maintainer"
+)
+- Built a Homelab for various Self-Hosting services using Docker/Docker Compose, and sometimes Virtualization with Proxmox.
+- Currently building an observability stack using Prometheus, Grafana, Graylog.
